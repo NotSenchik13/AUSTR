@@ -336,3 +336,16 @@ p {
 .black, .white {
     padding-bottom: 20px;
 }
+
+
+.learnis {
+    color: #000;
+}
+.learnis:hover {
+    color: #7B68EE;
+}
+
+.le {
+    display: flex;
+    justify-content: center;
+}
